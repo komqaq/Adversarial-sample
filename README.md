@@ -1,0 +1,8 @@
+# Adversarial-sample
+生成神经网络对抗样本
+
+实现了基于cifar10数据集对于vgg16的targeted和untargeted攻击
+
+实现了基于cifar10和ImageNet数据集的uap攻击
+
+本project使用了https://github.com/huyvnphan/PyTorch_CIFAR10的cifar10model
