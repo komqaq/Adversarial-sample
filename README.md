@@ -5,4 +5,4 @@
 
 实现了基于cifar10和ImageNet数据集的uap攻击
 
-本project使用了https://github.com/huyvnphan/PyTorch_CIFAR10的cifar10model
+本project使用了https://github.com/huyvnphan/PyTorch_CIFAR10 的cifar10model
